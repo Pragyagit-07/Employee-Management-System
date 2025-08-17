@@ -1,0 +1,41 @@
+ .employee-form {
+  max-width: 600px;
+  margin: auto;
+}
+
+.employee-form div {
+  margin-bottom: 15px;
+}
+
+.employee-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.employee-form input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.employee-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.employee-form button:hover {
+  background-color: #0056b3;
+}
+
+.error {
+  color: red;
+  font-size: 0.85em;
+} 
+  
